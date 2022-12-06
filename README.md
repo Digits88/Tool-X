@@ -32,7 +32,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/ekadanuarta/Tool-X.git`
+* `git clone https://github.com/Digits88/Tool-X/.git`
 
 * `cd Tool-X`
 
